@@ -1,0 +1,11 @@
+{
+  "name": "Chipper.Collections.Editor",
+  "references": [    
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+	"allowUnsafeCode": false
+}

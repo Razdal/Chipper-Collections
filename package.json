@@ -1,0 +1,18 @@
+{
+    "name": "com.chipper.collections",
+    "version": "0.0.1-preview",
+    "displayName": "Chipper Collections",
+    "description": "Collections",
+    "unity": "2019.2",
+    "unityRelease": "4f1",
+    "dependencies": {              
+    },
+    "keywords": [      
+      "chipper",
+      "collections"
+    ],
+    "author": {
+      "name": "Selim Yesilkaya"
+    }
+  }
+  

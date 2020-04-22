@@ -1,0 +1,9 @@
+{
+  "name": "Chipper.Collections",
+  "references": [    
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+	"allowUnsafeCode": false
+}
